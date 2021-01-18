@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Joseph的博客</title>
+  
+  <subtitle>学习搭建中</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://bigguyx.xyz/"/>
+  <updated>2020-12-22T09:03:03.248Z</updated>
+  <id>http://bigguyx.xyz/</id>
+  
+  <author>
+    <name>Joseph</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>数组的操作练习</title>
+    <link href="http://bigguyx.xyz/2020/12/22/shu-zu-de-cao-zuo-lian-xi/"/>
+    <id>http://bigguyx.xyz/2020/12/22/shu-zu-de-cao-zuo-lian-xi/</id>
+    <published>2020-12-22T09:02:12.000Z</published>
+    <updated>2020-12-22T09:03:03.248Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;今天我们来学习的是JS数组常用操作&quot;&gt;&lt;a href=&quot;#今天我们来学习的是JS数组常用操作&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>十大经典排序算法整理汇总（附代码）</title>
+    <link href="http://bigguyx.xyz/2020/02/16/sort-algorithms/"/>
+    <id>http://bigguyx.xyz/2020/02/16/sort-algorithms/</id>
+    <published>2020-02-16T07:09:23.000Z</published>
+    <updated>2020-12-22T08:24:29.464Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="编程算法" scheme="http://bigguyx.xyz/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="leetcode" scheme="http://bigguyx.xyz/tags/leetcode/"/>
+    
+      <category term="算法" scheme="http://bigguyx.xyz/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+</feed>
